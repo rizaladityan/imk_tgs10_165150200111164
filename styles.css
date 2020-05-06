@@ -1,0 +1,38 @@
+body {
+  background-color: #fae3d9;
+  font-family: "Impact";
+
+}
+
+.profile {
+  width: 150px;
+  height: :200px;
+  border-radius: 50%;
+}
+
+.batas {
+  border-top: 4px dotted #808080;
+  width: 10%;
+}
+
+.header {
+  background-color: #cbf1f5;
+  font-family: "Lucida Console";
+  color: blue;
+}
+
+#bio {
+  background-color: #a6e3e9;
+  font-family: "Courier";
+  color: green;
+}
+
+.detail {
+  background-color: #71c9ce;
+  font-family: "Times new roman";
+  color: white;
+}
+
+.footer {
+  text-align: center;
+}
